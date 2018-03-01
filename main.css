@@ -6,16 +6,14 @@ body
 
 h1
 {
+  font-size: 40;
   font-family: "Comic Sans MS";
   background-color: pink;
-  width: 100%;
-  height: auto;
 }
 
 p
 {
-  width: 100%;
-  height: auto;
+  font-size: 20;
   font-family: "Comic Sans MS";
   background-color: yellow;
 }
