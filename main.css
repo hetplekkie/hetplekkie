@@ -1,16 +1,19 @@
 body
 {
   text-align: center;
+  background-color: blue;
 }
 
 h1
 {
   font-family: "Comic Sans MS";
+  background-color: pink;
 }
 
 p
 {
   font-family: "Comic Sans MS";
+  background-color: yellow;
 }
 
 img {
