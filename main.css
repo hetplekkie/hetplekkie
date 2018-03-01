@@ -8,15 +8,19 @@ h1
 {
   font-family: "Comic Sans MS";
   background-color: pink;
+  width: 100%;
+  height: auto;
 }
 
 p
 {
+  width: 100%;
+  height: auto;
   font-family: "Comic Sans MS";
   background-color: yellow;
 }
 
 img {
-    width: 50%;
+    width: 30%;
     height: auto;
 }
